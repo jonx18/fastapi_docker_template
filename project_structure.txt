@@ -1,0 +1,35 @@
+├── @Author  : Jonathan Martin - Senior Machine Learning Engineer
+├── LICENSE
+├── README.md                      <- The top-level README for developers using this project.
+│
+├── data                           <- The folder containing the origininal data 
+│   ├── iris.csv
+│
+├── models                         <- Trained and serialized models, model predictions, or model summaries
+│   ├── model.pkl
+│
+├── notebooks                      <- Jupyter notebooks folder.
+│   ├── example_of_use.ipynb   
+│
+├── docker                         <- folder containing the docker files
+│   ├── Dockerfile            
+│
+├── packages                       <- The customized project packages containing utility functions 
+│       ├── __init__.py
+│       └── model_trainer.py
+│   
+├── requirements.txt               <- The requirements file for reproducing the analysis environment, e.g.
+│                                       generated with `pip freeze > requirements.txt`
+│
+├── train_model.py                 <- Script to train the model
+│
+├── app.py                         <- The final Rest API file
+
+
+
+
+
+
+
+
+
